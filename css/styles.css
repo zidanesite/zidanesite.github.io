@@ -1,0 +1,22 @@
+img{
+    height: 700px;
+    width: 100%;
+   
+}
+#text{
+    margin:200px 10% 0px 10%;
+    color:gold;
+}
+.background{
+    background-color: #000000;
+}
+div.col-4{
+    padding: 0px;
+}
+.ever{
+    width: 800px;
+}
+.row{
+  font-style: initial;
+  padding: 0px;
+}
